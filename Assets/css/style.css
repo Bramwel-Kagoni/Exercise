@@ -1,0 +1,39 @@
+.fruits{
+   border: 20px solid gray ;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    color: black;
+    font-family: "Times New Roman";
+
+}
+.cars{
+    border: 20px solid cadetblue;
+    padding: 20px;
+    margin: 20px;
+    text-align:center ;
+    color: black;
+    font-family: "Times New Roman";
+}
+.Fruits{
+    border: 20px solid darkseagreen;
+    padding:20px;
+    margin:20px;
+    text-align: center;
+    color: cadetblue;
+    font-family: "Times New Roman";
+}
+#schools{
+    border: solid red 2px;
+
+}
+th,td{
+    border: solid 2px royalblue;
+    padding:15px ;
+    margin: 15px;
+    font-family: "Calibri";
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}

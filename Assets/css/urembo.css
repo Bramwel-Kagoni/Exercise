@@ -1,0 +1,36 @@
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: darkred;
+  overflow: hidden;
+}
+li{
+  float: left;
+
+}
+li a{
+  padding: 28px;
+  text-decoration-color: snow;
+  color: aqua;
+  display: block;
+  font-family: "Arial Black";
+    font-size: large;
+
+}
+h2{
+ text-align: center;
+  color: blueviolet;
+  font-family: "Algerian";
+  font-size: 35px;
+}
+li a:hover{
+    background-color: black;
+}
+p {
+  color: blue;
+  font-family: Algerian;
+
+}
+
+
